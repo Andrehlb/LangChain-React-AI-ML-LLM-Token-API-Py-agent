@@ -4,12 +4,17 @@ Projeto com conceitos básicos relativos ao desenvolvimento de agentes usando gr
 
 Desenvolvimento em **Python** de um assistente capaz de responder perguntas sobre filmes, armazenados como um "knowledge Graph" em [neo4j](https://neo4j.com).
 
-Os conceitos de desenvolvimento aqui apresentados podem ser extrapolados para outros contextos em outras linguagens de programação.
+Os conceitos de desenvolvimento aqui apresentados, podem ser extrapolados para outros contextos, em outras linguagens de programação.
 
-## Como utilizar este projeto
+## Como utilizar este projeto <br>
 1. **Ter uma conta no GitHub**
 
-- *Evoluir projeto a partir desse:** então faz um fork aí, nesse projeto. <br> Assim, você poderá ampliar esse projeto no teu próprio GitHub, adicionando o teu próprio código, o que eu recomendo muito.
+* **Faça um Fork:**
+     1. Vá até o repositório do projeto no GitHub.
+     2. Clique no botão "Fork", no canto superior direito da página.
+     3. Escolha sua conta ou organização para criar o fork.
+
+- **Evoluir projeto a partir desse:** então faz um fork aí, nesse projeto. <br> Assim, você poderá ampliar esse projeto no teu próprio GitHub, adicionando o teu próprio código, o que eu recomendo muito.
 - **Quero apenas acompanhar esse projeto:** Dê um watch, assim será informado sobre as novas alterações desse projeto.
 
 Considere dar uma “estrela“ ao projeto se você achar ele útil **😊**!
