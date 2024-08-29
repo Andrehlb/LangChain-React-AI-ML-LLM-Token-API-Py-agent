@@ -1,15 +1,16 @@
 # Aplicações de IA com Agentes Autônomos 
-Este projeto foi desenvolvido para ensinar conceitos básicos relativos para o desenvolvimento de agentes usando grandes modelos de linguagem (LLMs, *Large Language Models*).
+<br>
+Projeto com conceitos básicos relativos ao desenvolvimento de agentes usando grandes modelos de linguagem (LLMs, *Large Language Models*).
 
-O foco será o desenvolvimento em **Python** de um assistente capaz de responder perguntas sobre filmes, armazenados como um knowledge Graph em [neo4j](https://neo4j.com).
+Desenvolvimento em **Python** de um assistente capaz de responder perguntas sobre filmes, armazenados como um "knowledge Graph" em [neo4j](https://neo4j.com).
 
-Apesar de não se desenvolvido em Java, os conceitos aqui apresentados certamente podem ser extrapolados para outros contextos.
+Os conceitos de desenvolvimento aqui apresentados podem ser extrapolados para outros contextos em outras linguagens de programação.
 
 ## Como utilizar este projeto
-1. **Já tenho uma conta no GitHub**
+1. **Ter uma conta no GitHub**
 
-- **Quero evoluir meu projeto a partir desse:** Nesse caso, dê um fork nesse projeto. Assim você poderá ampliar esse projeto no seu próprio GitHub, adicionando o seu próprio código, o que eu recomendo muito.
-- **Quero apenas acompanhar esse projeto:** Caso deseje apenas acompanhar a evolução desse projeto para as próximas monitorias, dê um watch, assim será informado sobre as novas alterações desse projeto.
+- *Evoluir projeto a partir desse:** então faz um fork aí, nesse projeto. <br> Assim, você poderá ampliar esse projeto no teu próprio GitHub, adicionando o teu próprio código, o que eu recomendo muito.
+- **Quero apenas acompanhar esse projeto:** Dê um watch, assim será informado sobre as novas alterações desse projeto.
 
 Considere dar uma “estrela“ ao projeto se você achar ele útil **😊**!
 
